@@ -1,0 +1,12 @@
+body {
+    background-image: url("resources/background.jpg") ;
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+
+.bodyButtons {
+    margin: auto;
+    width: 10%;
+    padding-top: 150px;
+
+}
